@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Raymond Rambo</string>
+    <string name="assignment">Assignment 2</string>
+    <string name="marksTotal">Total Marks</string>
+    <string name="questionsTotal">Questions Completed</string>
+    <string name="question">question</string>
+    <string name="trueB">TRUE</string>
+    <string name="falseB">FALSE</string>
+    <string name="hintB">HINT!</string>
+    <string name="cheatB">CHEAT!</string>
+    <string name="previousB">&#x3c; PREV</string>
+    <string name="nextB">NEXT &#x3e;</string>
+    <string name="hintSure">Are you sure you want a hint?</string>
+    <string name="hintConfirm">SHOW HINT</string>
+    <string name="hintText">Hint</string>
+    <string name="cheatSure">Are you sure you want to cheat?</string>
+    <string name="cheatText">Answer</string>
+    <string name="cheatConfirm">SHOW ANSWER</string>
+    <string name="exit">EXIT</string>
+    <string name="question_africa">4. The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">5. The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">6. Lake Baikal is the oldest and deepest freshwater lake.</string>
+    <string name="question_australia">1. Canberra is the capital of Australia.</string>
+    <string name="question_mideast">3. The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_oceans">2. The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="questions_completed">QUESTIONS COMPLETED:</string>
+    <string name="hint_africa">4. Salah should know the answer.</string>
+    <string name="hint_americas">5. You can buy many books on the Amazon website.</string>
+    <string name="hint_asia">6. Lake Baikal is located in Russia.</string>
+    <string name="hint_australia">1. Sydney is not the capital of Australia.</string>
+    <string name="hint_mideast">3. The Suez Canal connects two seas.</string>
+    <string name="hint_oceans">2. There are fewer fish in the Atlantic Ocean.</string>
+
+</resources>
